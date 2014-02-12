@@ -19,3 +19,7 @@ Docs
 `brew help`, `man brew`, or the Homebrew [wiki][].
 
 [wiki]:http://wiki.github.com/mxcl/homebrew
+
+License
+-------
+Code is under the BSD 2 Clause (NetBSD) license.
