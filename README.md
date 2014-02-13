@@ -3,6 +3,7 @@ Homebrew for Libwebm
 Formulae for Libwebm for the Homebrew package manager http://brew.sh
 
 See http://www.webmproject.org for details on the project.
+This repo is a short cutter for the instructions from http://wiki.webmproject.org/adaptive-streaming/instructions-to-playback-a-webm-dash-presentation.
 
 How do I install these formulae?
 --------------------------------
