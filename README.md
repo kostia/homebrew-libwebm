@@ -2,6 +2,8 @@ Homebrew for Libwebm
 ==============
 Formulae for Libwebm for the Homebrew package manager http://brew.sh
 
+See http://www.webmproject.org for details on the project.
+
 How do I install these formulae?
 --------------------------------
 Just `brew tap kostia/libwebm` and then `brew install <formula>`.
