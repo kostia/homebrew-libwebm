@@ -2,9 +2,9 @@ require 'formula'
 
 class Libwebm < Formula
   homepage 'http://www.webmproject.org/'
-  version '1.0.0.5'
-  url 'https://github.com/kostia/libwebm/archive/master.zip'
-  sha1 '8a205441a4aa765ddf1921991151cbdbd0e778a0'
+  version '2013-03-01'
+  url 'https://github.com/kostia/libwebm/archive/2013-03-01.zip'
+  sha1 '73561e58908becdf3004cec3553221788d547854'
 
   def install
     system 'make'
